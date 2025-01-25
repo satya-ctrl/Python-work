@@ -1,8 +1,0 @@
-dietitian_project/
-│
-├── dietitian.py
-├── clients.txt
-└── diets/
-    ├── client1.txt
-    ├── client2.txt
-    └── ...
