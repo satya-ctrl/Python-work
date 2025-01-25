@@ -7,15 +7,6 @@ A collection of simple Python codes done/ practised daily. These scripts cover v
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Structure](#structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## Overview
 
